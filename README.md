@@ -1,4 +1,4 @@
-QB_Anybot
+KUKA_Youbot
 =========
 
-Research for QB_Anybot 
+Research for KUKA_Youbot 
